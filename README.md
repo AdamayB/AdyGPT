@@ -7,6 +7,6 @@
 **requirements.txt doesn't have gradio version.**
 
 
-If anyone wants to access the .bin files i.e. the model weights the can download GPT4ALL on their systems and download the weights.
+Anyone who wants to access the .bin files, i.e., the model weights, can download GPT4ALL on their systems and download the weights.
 
-If anyone wants this particular model click on this link: https://drive.google.com/file/d/1gnBVFeqZ13T_qbIZXjztDRT45y7SRsTH/view?usp=sharing
+If anyone wants this particular model, click on this link: https://drive.google.com/file/d/1gnBVFeqZ13T_qbIZXjztDRT45y7SRsTH/view?usp=sharing
