@@ -4,6 +4,8 @@
 
 >app1.py- Uses Gradio
 
+**requirements.txt doesn't have gradio version.**
+
 
 If anyone wants to access the .bin files i.e. the model weights the can download GPT4ALL on their systems and download the weights.
 
