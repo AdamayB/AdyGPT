@@ -2,7 +2,7 @@ from langchain.llms import GPT4All
 import streamlit as st
 import gradio as gr
 # Instantiate the model. Callbacks support token-wise streaming
-model = GPT4All(model="C:/Users/adama/gpt4all/ggml-vicuna-7b-1.1-q4_2.bin")
+model = GPT4All(model="./ggml-vicuna-7b-1.1-q4_2.bin")
 #Site interface
 title='🦜️🔗GPT using GPT4ALL '
 description='This is an open source project. Created by Adamay Bhardwaj'
